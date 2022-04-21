@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scene/TerrainTest.unity
+- path: Assets/Scene/ZigProject.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
