@@ -6,34 +6,34 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedScenePath-0:
-      value: 22424703114646680e0b02275f175a0204161124182d3524633c133af6f9
-      flags: 0
-    RecentlyUsedScenePath-1:
-      value: 22424703114646680e0b02275f11501c1a2819152e292a3c633c133af6f9
-      flags: 0
-    RecentlyUsedScenePath-2:
-      value: 22424703114646680e0b02275f105e1d061b1d10252f15392067083debf42d
-      flags: 0
-    RecentlyUsedScenePath-3:
       value: 224247031146466104093f2b1d17501f1a041e253e1d283939305200e3ed2434e7d435ece93f2c731600e539072a3330e60b1d02f905390a1c1ef10b51ae5e061fcc0cdc
       flags: 0
-    RecentlyUsedScenePath-4:
+    RecentlyUsedScenePath-1:
       value: 22424703114646680e0b02275f195617251e151a3e272c352e3d5326ece92021
       flags: 0
-    RecentlyUsedScenePath-5:
+    RecentlyUsedScenePath-2:
       value: 22424703114646680e0b02275f0c5d1a13140c18233c272424261300e3ed2434e7a767a7f234362820
       flags: 0
-    RecentlyUsedScenePath-6:
+    RecentlyUsedScenePath-3:
       value: 224247031146466104093f2b1d17501f1a041e253e1d283939305200e3ed2434e7d435ece93f2c731600e539072a3330e60b1d02f905390a1c1ef10b5fea1e1a05dc
       flags: 0
-    RecentlyUsedScenePath-7:
+    RecentlyUsedScenePath-4:
       value: 22424703114646680e0b02275f0c5d1a13140c18233c272424261300e3ed2434e7a923e7ee2e26
       flags: 0
-    RecentlyUsedScenePath-8:
+    RecentlyUsedScenePath-5:
       value: 22424703114646680e0b02275f134d1510161a072d232f3e2a67083debf42d
       flags: 0
-    RecentlyUsedScenePath-9:
+    RecentlyUsedScenePath-6:
       value: 22424703114646680e0b02275f19561726051720292b327e38271427fb
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646680e0b02275f11501c1a2819152e292a3c633c133af6f9
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646680e0b02275f175a0204161124182d3524633c133af6f9
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b02275f02491102180a0f212a233429201334acf53a31f6fe
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
